@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movies-movieid",
+    "path": "/movies/:movieid?",
+    "component": "/Users/pirci/Documents/GitHub/vue-playground/movies-app-nuxtjs/pages/movies/_movieid.vue",
+    "chunkName": "pages/movies/_movieid",
+    "_name": "_347791d0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/pirci/Documents/GitHub/vue-playground/movies-app-nuxtjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0bd4e94a"
+  }
+]
